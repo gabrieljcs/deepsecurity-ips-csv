@@ -7,7 +7,7 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 API_KEY = ''
 MANAGER_URL = 'https://cloudone.trendmicro.com/'
-FILENAME = 'output'
+FILENAME = 'output.csv'
 COUNT_ONLY = False
 REPEAT_COLUMNS = False
 
