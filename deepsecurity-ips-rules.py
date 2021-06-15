@@ -7,12 +7,12 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 API_KEY = ''
 MANAGER_URL = 'https://cloudone.trendmicro.com/'
-FILENAME = 'output_repeat_columns.csv'
+FILENAME = 'output.csv'
 COUNT_ONLY = False
-REPEAT_COLUMNS = True
+REPEAT_COLUMNS = False
 
 if not (API_KEY or MANAGER_URL):
-    print("Fill the API_KEY and MANAGER_URL fields inside the script before running.")
+    print("Fill in the API_KEY and MANAGER_URL fields inside the script before running.")
     exit(1)
 
 headers = {'api-secret-key': API_KEY, 'api-version': 'v1'}
@@ -24,7 +24,7 @@ s = json.loads(r.text)
 
 print("Grabbing IPS information...")
 with open(FILENAME, 'w', newline='') as outfile:
-    wr = csv.writer(outfile, delimiter=',')
+    wr = csv.writer(outfile, delimiter=';')
     if (COUNT_ONLY):
         wr.writerow( ['hostName', 'displayName', 'ipsState', 'ipsStatus', 'ipsRulesCount'] )
     else:
@@ -44,7 +44,7 @@ with open(FILENAME, 'w', newline='') as outfile:
                 for index, j in enumerate(u['intrusionPreventionRules']):
                     ipsdata = [ j['ID'], j['name'], j['severity'] ]
                     if 'CVE' in j:
-                        ipsdata = ipsdata + j['CVE']
+                        ipsdata = ipsdata + [ ','.join( map(str, j['CVE']) ) ]
                     else:
                         ipsdata = ipsdata + ['']
                     if (index == 0) or (REPEAT_COLUMNS):
