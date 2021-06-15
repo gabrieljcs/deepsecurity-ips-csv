@@ -7,8 +7,9 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 API_KEY = ''
 MANAGER_URL = 'https://cloudone.trendmicro.com/'
-FILENAME = 'output.csv'
+FILENAME = 'output'
 COUNT_ONLY = False
+REPEAT_COLUMNS = False
 
 if not (API_KEY or MANAGER_URL):
     print("Fill the API_KEY and MANAGER_URL fields inside the script before running.")
@@ -44,7 +45,7 @@ with open(FILENAME, 'w', newline='') as outfile:
                     ipsdata = [ j['ID'], j['name'], j['severity'] ]
                     if 'CVE' in j:
                         ipsdata = ipsdata + j['CVE']
-                    if index == 0:
+                    if (index == 0) or (REPEAT_COLUMNS):
                         wr.writerow(rowdata + rulescount + ipsdata)
                     else:
                         wr.writerow([''] + [''] + [''] + [''] + [''] + ipsdata)

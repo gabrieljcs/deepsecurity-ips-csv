@@ -10,4 +10,7 @@ Usage:
 ------
 Generate an API key and fill it with your manager information inside the script.
 
+Even though it shouldn't, a full API role is needed.
+
 If you don't want the rules description, change ```COUNT_ONLY``` to ```True```.
+If you want the first column to repeat (hostname _etc_), change ```REPEAT_COLUMNS``` to ```True```.
