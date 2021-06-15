@@ -1,6 +1,6 @@
-hostName;displayName;ipsState;ipsStatus;ipsRulesCount
-WIN-0UKV8IM1ALA;;prevent;active;364
-Win10;Win10;off;inactive;0
-trend-dc817890a;;prevent;active;1293
-WIN-67K6VAIHRL0;;prevent;active;65
-gabriel-VirtualBox;;prevent;active;12
+hostName,displayName,ipsState,ipsStatus,ipsRulesCount
+WIN-0UKV8IM1ALA,,prevent,active,364
+Win10,Win10,off,inactive,0
+trend-dc817890a,,prevent,active,1293
+WIN-67K6VAIHRL0,,prevent,active,65
+gabriel-VirtualBox,,prevent,active,12
