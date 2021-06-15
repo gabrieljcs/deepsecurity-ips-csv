@@ -1,18 +1,18 @@
 hostName,displayName,ipsState,ipsStatus,ipsRulesCount,ipsRulesID,ipsRulesName,ipsRulesSeverity,ipsRulesCVE
-WIN-0UKV8IM1ALA,,prevent,active,364,1622,Windows Live MSN ActiveX Remote Code Execution,medium
-WIN-0UKV8IM1ALA,,prevent,active,364,2013,Identified Diginotar Certificate,critical
-WIN-0UKV8IM1ALA,,prevent,active,364,2285,Identified Fraudulent Digital Certificate,critical
+WIN-0UKV8IM1ALA,,prevent,active,364,1622,Windows Live MSN ActiveX Remote Code Execution,medium,
+WIN-0UKV8IM1ALA,,prevent,active,364,2013,Identified Diginotar Certificate,critical,
+WIN-0UKV8IM1ALA,,prevent,active,364,2285,Identified Fraudulent Digital Certificate,critical,
 WIN-0UKV8IM1ALA,,prevent,active,364,3441,Identified Usage Of TLS/SSL EXPORT Cipher Suite In Response (ATT&CK T1032),medium,CVE-2015-0138,CVE-2015-1637,CVE-2015-4000,CVE-2015-0204
 WIN-0UKV8IM1ALA,,prevent,active,364,3600,Identified SSL/TLS Diffie-Hellman Key Exchange Using Weak Parameters Client (ATT&CK T1032),medium,CVE-2015-1716,CVE-2015-4000
-WIN-0UKV8IM1ALA,,prevent,active,364,3812,Identified Suspicious User Agent In Outgoing HTTP Request,medium
-WIN-0UKV8IM1ALA,,prevent,active,364,4167,Identified Revoked Certificate Authority In SSL Traffic (ATT&CK T1032),critical
-WIN-0UKV8IM1ALA,,prevent,active,364,4282,HTTP Web Client Decoding,critical
-WIN-0UKV8IM1ALA,,prevent,active,364,4432,Identified Fraudulent Digital Certificate - 1,critical
+WIN-0UKV8IM1ALA,,prevent,active,364,3812,Identified Suspicious User Agent In Outgoing HTTP Request,medium,
+WIN-0UKV8IM1ALA,,prevent,active,364,4167,Identified Revoked Certificate Authority In SSL Traffic (ATT&CK T1032),critical,
+WIN-0UKV8IM1ALA,,prevent,active,364,4282,HTTP Web Client Decoding,critical,
+WIN-0UKV8IM1ALA,,prevent,active,364,4432,Identified Fraudulent Digital Certificate - 1,critical,
 WIN-0UKV8IM1ALA,,prevent,active,364,5234,Microsoft Malware Protection Engine Remote Code Execution Vulnerability (CVE-2017-0290),critical,CVE-2017-0290
 WIN-0UKV8IM1ALA,,prevent,active,364,5363,Microsoft MsMpEng Use After Free Vulnerability (CVE-2017-8540),critical,CVE-2017-8540
 WIN-0UKV8IM1ALA,,prevent,active,364,5364,Microsoft MsMpEng Use After Free Vulnerability (CVE-2017-8541),critical,CVE-2017-8541
-WIN-0UKV8IM1ALA,,prevent,active,364,5400,Identified Possible Ransomware File Extension Rename Activity Over Network Share,critical
-WIN-0UKV8IM1ALA,,prevent,active,364,5403,Identified Possible Ransomware File Extension Rename Activity Over Network Share - Client,critical
+WIN-0UKV8IM1ALA,,prevent,active,364,5400,Identified Possible Ransomware File Extension Rename Activity Over Network Share,critical,
+WIN-0UKV8IM1ALA,,prevent,active,364,5403,Identified Possible Ransomware File Extension Rename Activity Over Network Share - Client,critical,
 WIN-0UKV8IM1ALA,,prevent,active,364,5543,Microsoft Internet Explorer And Edge Memory Corruption Vulnerability (CVE-2017-11894),high,CVE-2017-11894
 WIN-0UKV8IM1ALA,,prevent,active,364,5545,Microsoft Internet Explorer And Edge Memory Corruption Vulnerability (CVE-2017-11895),high,CVE-2017-11895
 WIN-0UKV8IM1ALA,,prevent,active,364,5548,Microsoft Internet Explorer And Edge Memory Corruption Vulnerability (CVE-2017-11930),high,CVE-2017-11930
@@ -84,7 +84,7 @@ WIN-0UKV8IM1ALA,,prevent,active,364,6152,Microsoft Graphics Remote Code Executio
 WIN-0UKV8IM1ALA,,prevent,active,364,6153,Microsoft Internet Explorer Scripting Engine Memory Corruption Vulnerability (CVE-2018-8371),high,CVE-2018-8371
 WIN-0UKV8IM1ALA,,prevent,active,364,6154,Microsoft Internet Explorer And Edge Memory Corruption Vulnerability (CVE-2018-8403),high,CVE-2018-8403
 WIN-0UKV8IM1ALA,,prevent,active,364,6185,Microsoft Windows GDI Information Disclosure Vulnerability (CVE-2018-8239),medium,CVE-2018-8239
-WIN-0UKV8IM1ALA,,prevent,active,364,6196,Windows Port Mapper Decoder,high
+WIN-0UKV8IM1ALA,,prevent,active,364,6196,Windows Port Mapper Decoder,high,
 WIN-0UKV8IM1ALA,,prevent,active,364,6235,Microsoft Windows Kernel Information Disclosure Vulnerability (CVE-2018-8442),low,CVE-2018-8442
 WIN-0UKV8IM1ALA,,prevent,active,364,6238,Microsoft Windows Multiple Security Vulnerabilities (Sep-2018),high,CVE-2018-8449,CVE-2018-8410
 WIN-0UKV8IM1ALA,,prevent,active,364,6243,Microsoft Internet Explorer And Edge Scripting Engine Memory Corruption Vulnerability (CVE-2018-8288),high,CVE-2018-8288
@@ -103,7 +103,7 @@ WIN-0UKV8IM1ALA,,prevent,active,364,6391,Microsoft Filter Manager Elevation Of P
 WIN-0UKV8IM1ALA,,prevent,active,364,6392,Microsoft Windows Theme API Remote Code Execution Vulnerability (CVE-2018-8413),critical,CVE-2018-8413
 WIN-0UKV8IM1ALA,,prevent,active,364,6397,Microsoft Windows .NET Framework Device Guard Security Feature Bypass Vulnerability (CVE-2018-1039),critical,CVE-2018-1039
 WIN-0UKV8IM1ALA,,prevent,active,364,6419,Speculative Execution Information Disclosure Vulnerabilities (Spectre),medium,CVE-2017-5715,CVE-2017-5753
-WIN-0UKV8IM1ALA,,prevent,active,364,6425,Microsoft Internet Explorer 'Tree::Notify_InvalidateDisplay' Null Pointer Dereference Vulnerability,high
+WIN-0UKV8IM1ALA,,prevent,active,364,6425,Microsoft Internet Explorer 'Tree::Notify_InvalidateDisplay' Null Pointer Dereference Vulnerability,high,
 WIN-0UKV8IM1ALA,,prevent,active,364,6426,Microsoft Windows Graphics Components Remote Code Execution Vulnerability (CVE-2018-8553),critical,CVE-2018-8553
 WIN-0UKV8IM1ALA,,prevent,active,364,6432,Microsoft Windows ALPC Elevation Of Privilege Vulnerability (CVE-2018-8584),high,CVE-2018-8584
 WIN-0UKV8IM1ALA,,prevent,active,364,6435,Microsoft Windows Multiple Security Vulnerabilities (Nov-2018),high,CVE-2018-8408,CVE-2018-8565,CVE-2018-8589
@@ -131,7 +131,7 @@ WIN-0UKV8IM1ALA,,prevent,active,364,6531,Microsoft JET Database Engine Remote Co
 WIN-0UKV8IM1ALA,,prevent,active,364,6535,Microsoft Windows GDI Information Disclosure Vulnerability (CVE-2018-8595),medium,CVE-2018-8595
 WIN-0UKV8IM1ALA,,prevent,active,364,6542,Microsoft Internet Explorer Memory Corruption Vulnerability (CVE-2019-0606),critical,CVE-2019-0606
 WIN-0UKV8IM1ALA,,prevent,active,364,6551,Microsoft Windows Multiple Security Vulnerabilities (Feb-2019),critical,CVE-2019-0628,CVE-2019-0621,CVE-2019-0656,CVE-2019-0661
-WIN-0UKV8IM1ALA,,prevent,active,364,6552,Microsoft Windows Information Disclosure Vulnerability (CVE-2019-0636),medium
+WIN-0UKV8IM1ALA,,prevent,active,364,6552,Microsoft Windows Information Disclosure Vulnerability (CVE-2019-0636),medium,
 WIN-0UKV8IM1ALA,,prevent,active,364,6556,Microsoft Internet Explorer Information Disclosure Vulnerability (CVE-2019-0676),critical,CVE-2019-0676
 WIN-0UKV8IM1ALA,,prevent,active,364,6571,Microsoft Windows JET Database Out-of-Bounds Read Remote Code Execution Vulnerability (CVE-2019-0575),medium,CVE-2019-0575
 WIN-0UKV8IM1ALA,,prevent,active,364,6572,Microsoft Windows JET Database Engine 'CreateLvSMLocs' Remote Code Execution (CVE-2019-0577),medium,CVE-2019-0577
@@ -155,7 +155,7 @@ WIN-0UKV8IM1ALA,,prevent,active,364,6643,Microsoft Windows Multiple Security Vul
 WIN-0UKV8IM1ALA,,prevent,active,364,6645,Microsoft Windows SMB Remote Code Execution Vulnerability (CVE-2019-0630),critical,CVE-2019-0630
 WIN-0UKV8IM1ALA,,prevent,active,364,6661,Microsoft Windows GDI Information Disclosure Vulnerability (CVE-2019-0614),critical,CVE-2019-0614
 WIN-0UKV8IM1ALA,,prevent,active,364,6675,Microsoft Internet Explorer VBScript Engine Remote Code Execution Vulnerability (CVE-2019-0667),critical,CVE-2019-0667
-WIN-0UKV8IM1ALA,,prevent,active,364,6676,Microsoft Edge And Internet Explorer Same Origin Policy Bypass Vulnerabilities,medium
+WIN-0UKV8IM1ALA,,prevent,active,364,6676,Microsoft Edge And Internet Explorer Same Origin Policy Bypass Vulnerabilities,medium,
 WIN-0UKV8IM1ALA,,prevent,active,364,6678,Microsoft Windows Win32k Elevation Of Privilege Vulnerability (CVE-2019-0808),critical,CVE-2019-0808
 WIN-0UKV8IM1ALA,,prevent,active,364,6679,Microsoft Windows Elevation Of Privilege Vulnerability (CVE-2018-8468),critical,CVE-2018-8468
 WIN-0UKV8IM1ALA,,prevent,active,364,6682,Microsoft Windows VBScript Engine Remote Code Execution Vulnerability (CVE-2018-8544),critical,CVE-2018-8544
@@ -163,8 +163,8 @@ WIN-0UKV8IM1ALA,,prevent,active,364,6684,Microsoft Windows Deployment Services T
 WIN-0UKV8IM1ALA,,prevent,active,364,6688,Microsoft Windows GDI Information Disclosure Vulnerability (CVE-2019-0802),medium,CVE-2019-0802
 WIN-0UKV8IM1ALA,,prevent,active,364,6693,Microsoft Internet Explorer Remote Code Execution Vulnerability (CVE-2019-0541),critical,CVE-2019-0541
 WIN-0UKV8IM1ALA,,prevent,active,364,6696,Microsoft Windows MS XML Remote Code Execution Vulnerability (CVE-2018-8494),critical,CVE-2018-8494
-WIN-0UKV8IM1ALA,,prevent,active,364,6699,Microsoft Windows PowerShell ISE Filename Parsing Remote Code Execution Vulnerability Over SMB,critical
-WIN-0UKV8IM1ALA,,prevent,active,364,6700,Microsoft Windows PowerShell ISE Filename Parsing Remote Code Execution Vulnerability,critical
+WIN-0UKV8IM1ALA,,prevent,active,364,6699,Microsoft Windows PowerShell ISE Filename Parsing Remote Code Execution Vulnerability Over SMB,critical,
+WIN-0UKV8IM1ALA,,prevent,active,364,6700,Microsoft Windows PowerShell ISE Filename Parsing Remote Code Execution Vulnerability,critical,
 WIN-0UKV8IM1ALA,,prevent,active,364,6703,Microsoft Internet Explorer Scripting Engine Memory Corruption Vulnerability (CVE-2018-8653),high,CVE-2018-8653
 WIN-0UKV8IM1ALA,,prevent,active,364,6704,Microsoft Windows GDI Information Disclosure Vulnerability (CVE-2019-0882),critical,CVE-2019-0882
 WIN-0UKV8IM1ALA,,prevent,active,364,6705,Microsoft Internet Explorer And Edge Scripting Engine Memory Corruption Vulnerability (CVE-2019-0884),critical,CVE-2019-0884
@@ -184,7 +184,7 @@ WIN-0UKV8IM1ALA,,prevent,active,364,6757,Microsoft Internet Explorer Scripting E
 WIN-0UKV8IM1ALA,,prevent,active,364,6759,Microsoft Windows Multiple Security Vulnerabilities (June-2019),critical,CVE-2019-1069,CVE-2019-0943,CVE-2019-0984,CVE-2019-0986,CVE-2019-1041,CVE-2019-1017,CVE-2019-1053,CVE-2019-1064
 WIN-0UKV8IM1ALA,,prevent,active,364,6761,Microsoft Internet Explorer Scripting Engine Memory Corruption Vulnerability (CVE-2019-0988),critical,CVE-2019-0988
 WIN-0UKV8IM1ALA,,prevent,active,364,6766,Microsoft Internet Explorer Scripting Engine Memory Corruption Vulnerability (CVE-2019-1005),critical,CVE-2019-1005
-WIN-0UKV8IM1ALA,,prevent,active,364,6774,Microsoft Windows Vcf And Contact File Insufficient UI Warning Remote Code Execution Vulnerability,critical
+WIN-0UKV8IM1ALA,,prevent,active,364,6774,Microsoft Windows Vcf And Contact File Insufficient UI Warning Remote Code Execution Vulnerability,critical,
 WIN-0UKV8IM1ALA,,prevent,active,364,6779,Microsoft Windows GDI Information Disclosure Vulnerability (CVE-2019-0961),critical,CVE-2019-0961
 WIN-0UKV8IM1ALA,,prevent,active,364,6783,Microsoft Windows SymCrypt Denial-of-Service Vulnerability (CVE-2019-0865),high,CVE-2019-0865
 WIN-0UKV8IM1ALA,,prevent,active,364,6792,Microsoft Windows VBScript Engine Remote Code Execution Vulnerability (CVE-2018-8174),high,CVE-2018-8174
@@ -324,63 +324,63 @@ WIN-0UKV8IM1ALA,,prevent,active,364,7893,Microsoft Windows Media Foundation Memo
 WIN-0UKV8IM1ALA,,prevent,active,364,7894,Microsoft Windows Media Foundation Memory Corruption Vulnerability Over SMB (CVE-2020-16915),critical,CVE-2020-16915
 WIN-0UKV8IM1ALA,,prevent,active,364,7895,Microsoft Windows Remote Desktop Protocol Information Disclosure Vulnerability (CVE-2020-16896),critical,CVE-2020-16896
 WIN-0UKV8IM1ALA,,prevent,active,364,7922,Microsoft Windows Graphics Components Remote Code Execution Vulnerability (CVE-2020-1167),critical,CVE-2020-1167
-WIN-0UKV8IM1ALA,,prevent,active,364,7988,Identified HTTP Cobalt Strike Malleable C&C Traffic Response (YouTube Profile),critical
-WIN-0UKV8IM1ALA,,prevent,active,364,7989,Identified HTTP Cobalt Strike Malleable C&C Traffic Response (Office 365 Calendar Profile),critical
+WIN-0UKV8IM1ALA,,prevent,active,364,7988,Identified HTTP Cobalt Strike Malleable C&C Traffic Response (YouTube Profile),critical,
+WIN-0UKV8IM1ALA,,prevent,active,364,7989,Identified HTTP Cobalt Strike Malleable C&C Traffic Response (Office 365 Calendar Profile),critical,
 WIN-0UKV8IM1ALA,,prevent,active,364,8028,Microsoft Internet Explorer Scripting Engine Memory Corruption Vulnerability (CVE-2020-17052),high,CVE-2020-17052
 WIN-0UKV8IM1ALA,,prevent,active,364,8031,Identified Out-Of-Sync RPCSEC_GSS_CONTINUE_INIT RPC Message,high,CVE-2020-17047
 WIN-0UKV8IM1ALA,,prevent,active,364,8033,Microsoft Windows Kernel Elevation Of Privilege Vulnerability (CVE-2020-17087),critical,CVE-2020-17087
-WIN-0UKV8IM1ALA,,prevent,active,364,8036,Identified HTTP TrojanDownloader.Win64.BazarLoader Traffic,critical
-WIN-0UKV8IM1ALA,,prevent,active,364,8037,Identified TCP Meterpreter Payload,critical
-WIN-0UKV8IM1ALA,,prevent,active,364,8038,Identified HTTP Trojan.Win64.BazarTrickbot Traffic,critical
-WIN-0UKV8IM1ALA,,prevent,active,364,8039,Identified DNS Trojan.Win32.Trickbot.Dns Traffic,critical
-WIN-0UKV8IM1ALA,,prevent,active,364,8040,Identified HTTP Backdoor.Shell.Powertrick.A Runtime Detection,critical
-WIN-0UKV8IM1ALA,,prevent,active,364,8041,Identified TLS Cobalt Strike Beacon (Certificate),critical
-WIN-0UKV8IM1ALA,,prevent,active,364,8042,Identified HTTP Trickbot Data Exfiltration (Network Module),critical
-WIN-0UKV8IM1ALA,,prevent,active,364,8043,Identified HTTP Trickbot Data Exfiltration (Card Payment),critical
-WIN-0UKV8IM1ALA,,prevent,active,364,8046,Identified HTTP Cobalt Strike Malleable C&C Traffic Request (Office 365 Calendar Profile),critical
-WIN-0UKV8IM1ALA,,prevent,active,364,8047,Identified HTTP Cobalt Strike Malleable C&C Traffic Request (Amazon Profile),critical
-WIN-0UKV8IM1ALA,,prevent,active,364,8066,Identified HTTP Trickbot Data Exfiltration - (Application Credentials Grabber),critical
-WIN-0UKV8IM1ALA,,prevent,active,364,8067,Identified FTP Backdoor.Win32.Qbot.JINX Runtime Detection,critical
-WIN-0UKV8IM1ALA,,prevent,active,364,8068,Identified HTTP Cobalt Strike Malleable C&C Traffic Request (Google Safe Browsing Profile),critical
-WIN-0UKV8IM1ALA,,prevent,active,364,8069,Identified HTTP Cobalt Strike Malleable C&C Traffic Request (Pandora GET Profile),critical
+WIN-0UKV8IM1ALA,,prevent,active,364,8036,Identified HTTP TrojanDownloader.Win64.BazarLoader Traffic,critical,
+WIN-0UKV8IM1ALA,,prevent,active,364,8037,Identified TCP Meterpreter Payload,critical,
+WIN-0UKV8IM1ALA,,prevent,active,364,8038,Identified HTTP Trojan.Win64.BazarTrickbot Traffic,critical,
+WIN-0UKV8IM1ALA,,prevent,active,364,8039,Identified DNS Trojan.Win32.Trickbot.Dns Traffic,critical,
+WIN-0UKV8IM1ALA,,prevent,active,364,8040,Identified HTTP Backdoor.Shell.Powertrick.A Runtime Detection,critical,
+WIN-0UKV8IM1ALA,,prevent,active,364,8041,Identified TLS Cobalt Strike Beacon (Certificate),critical,
+WIN-0UKV8IM1ALA,,prevent,active,364,8042,Identified HTTP Trickbot Data Exfiltration (Network Module),critical,
+WIN-0UKV8IM1ALA,,prevent,active,364,8043,Identified HTTP Trickbot Data Exfiltration (Card Payment),critical,
+WIN-0UKV8IM1ALA,,prevent,active,364,8046,Identified HTTP Cobalt Strike Malleable C&C Traffic Request (Office 365 Calendar Profile),critical,
+WIN-0UKV8IM1ALA,,prevent,active,364,8047,Identified HTTP Cobalt Strike Malleable C&C Traffic Request (Amazon Profile),critical,
+WIN-0UKV8IM1ALA,,prevent,active,364,8066,Identified HTTP Trickbot Data Exfiltration - (Application Credentials Grabber),critical,
+WIN-0UKV8IM1ALA,,prevent,active,364,8067,Identified FTP Backdoor.Win32.Qbot.JINX Runtime Detection,critical,
+WIN-0UKV8IM1ALA,,prevent,active,364,8068,Identified HTTP Cobalt Strike Malleable C&C Traffic Request (Google Safe Browsing Profile),critical,
+WIN-0UKV8IM1ALA,,prevent,active,364,8069,Identified HTTP Cobalt Strike Malleable C&C Traffic Request (Pandora GET Profile),critical,
 WIN-0UKV8IM1ALA,,prevent,active,364,8072,Microsoft Edge Chakra Array Iterator Type Confusion Vulnerability (CVE-2020-17048),medium,CVE-2020-17048
-WIN-0UKV8IM1ALA,,prevent,active,364,8076,Identified HTTP Cobalt Strike Malleable C&C Traffic Request (Pandora POST Profile),critical
-WIN-0UKV8IM1ALA,,prevent,active,364,8087,Identified HTTP Trojan-Downloader.Shell.Lightbot.A C&C Traffic Request,critical
+WIN-0UKV8IM1ALA,,prevent,active,364,8076,Identified HTTP Cobalt Strike Malleable C&C Traffic Request (Pandora POST Profile),critical,
+WIN-0UKV8IM1ALA,,prevent,active,364,8087,Identified HTTP Trojan-Downloader.Shell.Lightbot.A C&C Traffic Request,critical,
 WIN-0UKV8IM1ALA,,prevent,active,364,8126,Microsoft Windows SMB2 Server Information Disclosure Vulnerability (CVE-2020-17140),critical,CVE-2020-17140
 WIN-0UKV8IM1ALA,,prevent,active,364,8127,Microsoft Windows PE File Signature Spoofing Vulnerability (CVE-2020-1599),critical,CVE-2020-1599
 WIN-0UKV8IM1ALA,,prevent,active,364,8128,Microsoft Windows SMB2 Server Remote Code Execution Vulnerability (CVE-2020-17096),critical,CVE-2020-17096
 WIN-0UKV8IM1ALA,,prevent,active,364,8219,Microsoft Windows DirectWrite Information Disclosure Vulnerability (CVE-2019-1245),critical,CVE-2019-1245
 WIN-0UKV8IM1ALA,,prevent,active,364,8221,Microsoft Windows DirectWrite Information Disclosure Vulnerability (CVE-2019-1244),critical,CVE-2019-1244
-WIN-0UKV8IM1ALA,,prevent,active,364,8252,Identified HTTP Trojan-Downloader.Win32.Cometer.bfc C&C Traffic Request,critical
+WIN-0UKV8IM1ALA,,prevent,active,364,8252,Identified HTTP Trojan-Downloader.Win32.Cometer.bfc C&C Traffic Request,critical,
 WIN-0UKV8IM1ALA,,prevent,active,364,8256,Microsoft Windows Defender Remote Code Execution Vulnerability (CVE-2021-1647),critical,CVE-2021-1647
 WIN-0UKV8IM1ALA,,prevent,active,364,8257,Microsoft Windows Defender Remote Code Execution Vulnerability Over SMB (CVE-2021-1647),critical,CVE-2021-1647
-WIN-0UKV8IM1ALA,,prevent,active,364,8271,Identified BumbleBee Webshell Traffic Over HTTP,critical
-WIN-0UKV8IM1ALA,,prevent,active,364,8284,Identified HTTP Redhat Webshell C&C Traffic,critical
-WIN-0UKV8IM1ALA,,prevent,active,364,8285,Identified FlawedGrace Checkin Request - Client,critical
-WIN-0UKV8IM1ALA,,prevent,active,364,8286,Identified FlawedGrace Checkin Request - Server,critical
+WIN-0UKV8IM1ALA,,prevent,active,364,8271,Identified BumbleBee Webshell Traffic Over HTTP,critical,
+WIN-0UKV8IM1ALA,,prevent,active,364,8284,Identified HTTP Redhat Webshell C&C Traffic,critical,
+WIN-0UKV8IM1ALA,,prevent,active,364,8285,Identified FlawedGrace Checkin Request - Client,critical,
+WIN-0UKV8IM1ALA,,prevent,active,364,8286,Identified FlawedGrace Checkin Request - Server,critical,
 WIN-0UKV8IM1ALA,,prevent,active,364,8352,Microsoft Windows NTLM Elevation Of Privilege Vulnerability Over LDAP (CVE-2019-1040),critical,CVE-2019-1040
 WIN-0UKV8IM1ALA,,prevent,active,364,8385,Microsoft Windows Camera Codec Pack Out-Of-Bounds Write Remote Code Execution Vulnerability (CVE-2021-24091),high,CVE-2021-24091
 WIN-0UKV8IM1ALA,,prevent,active,364,8386,Microsoft Windows WAB File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability (CVE-2021-24083),high,CVE-2021-24083
-WIN-0UKV8IM1ALA,,prevent,active,364,8393,Identified Cobalt Strike Default Self-signed SSL/TLS Certificate,low
+WIN-0UKV8IM1ALA,,prevent,active,364,8393,Identified Cobalt Strike Default Self-signed SSL/TLS Certificate,low,
 WIN-0UKV8IM1ALA,,prevent,active,364,8396,Microsoft Windows Camera Codec Pack Image Processing Out-Of-Bounds Write Vulnerability (CVE-2021-24081),high,CVE-2021-24081
 Win10,Win10,off,inactive,0
 trend-dc817890a,,prevent,active,1293,55,Microsoft Internet Explorer Focus Vulnerability,medium,CVE-2006-2900
 trend-dc817890a,,prevent,active,1293,95,Microsoft Windows Explorer JPG File Denial of Service Vulnerability,medium,CVE-2007-4227
-trend-dc817890a,,prevent,active,1293,97,Microsoft Internet Explorer Position:Relative DoS,high
+trend-dc817890a,,prevent,active,1293,97,Microsoft Internet Explorer Position:Relative DoS,high,
 trend-dc817890a,,prevent,active,1293,141,"Microsoft Internet Explorer ""IsComponentInstalled()"" Remote Stack Overflow",high,CVE-2006-1016
 trend-dc817890a,,prevent,active,1293,154,MoBB #17: Gradient StartColorStr,medium,CVE-2006-3657
 trend-dc817890a,,prevent,active,1293,156,MoBB #8: RDS.DataControl URL,low,CVE-2006-3510
 trend-dc817890a,,prevent,active,1293,209,Microsoft Internet Explorer ActiveX bgColor Property DoS,high,CVE-2007-0612
-trend-dc817890a,,prevent,active,1293,217,Windows Shell User Logon ActiveX Control Create Method Vulnerability,medium
+trend-dc817890a,,prevent,active,1293,217,Windows Shell User Logon ActiveX Control Create Method Vulnerability,medium,
 trend-dc817890a,,prevent,active,1293,507,Microsoft Internet Explorer FTP Command Injection Vulnerability,medium,CVE-2008-1368
-trend-dc817890a,,prevent,active,1293,536,Microsoft Internet Explorer 6 DirectX Media Denial Of Service,medium
+trend-dc817890a,,prevent,active,1293,536,Microsoft Internet Explorer 6 DirectX Media Denial Of Service,medium,
 trend-dc817890a,,prevent,active,1293,577,Microsoft Internet Explorer 'Print Table of Links' Cross-Zone Scripting,critical,CVE-2008-2281
-trend-dc817890a,,prevent,active,1293,586,Microsoft Windows Media Digital Rights Management ActiveX Control Buffer Overflow,medium
+trend-dc817890a,,prevent,active,1293,586,Microsoft Windows Media Digital Rights Management ActiveX Control Buffer Overflow,medium,
 trend-dc817890a,,prevent,active,1293,623,Microsoft Internet Explorer CreateTextRange.text DoS,critical,CVE-2008-2255
 trend-dc817890a,,prevent,active,1293,640,Microsoft Internet Explorer 7 Frame Location Handling Vulnerability,medium,CVE-2008-2948,CVE-2008-2949
 trend-dc817890a,,prevent,active,1293,654,"Internet Explorer 6 Window ""location"" Handling Vulnerability",medium,CVE-2008-2947
 trend-dc817890a,,prevent,active,1293,656,Request Header Cross-Domain Information Disclosure,high,CVE-2008-1544
-trend-dc817890a,,prevent,active,1293,657,Microsoft Internet Explorer New ActiveX Object String Concatenation Memory Corruption Vulnerability,medium
+trend-dc817890a,,prevent,active,1293,657,Microsoft Internet Explorer New ActiveX Object String Concatenation Memory Corruption Vulnerability,medium,
 trend-dc817890a,,prevent,active,1293,669,Adobe Flash Player ActiveX Control 'navigateToURL' API Cross Domain Scripting Vulnerability,medium,CVE-2007-6244
 trend-dc817890a,,prevent,active,1293,685,Microsoft Event System Vulnerability,critical,CVE-2008-1457
 trend-dc817890a,,prevent,active,1293,692,Microsoft HTML Objects Memory Corruption Vulnerability,critical,CVE-2008-2255
@@ -401,7 +401,7 @@ trend-dc817890a,,prevent,active,1293,979,Microsoft WordPad '.doc' File Remote De
 trend-dc817890a,,prevent,active,1293,1002,Microsoft Windows CHM File Processing Buffer Overflow Vulnerability,critical,CVE-2009-0119
 trend-dc817890a,,prevent,active,1293,1026,Microsoft GDI+ EMF 'GpFont.SetData()' Buffer Overflow Vulnerability,medium,CVE-2009-1217
 trend-dc817890a,,prevent,active,1293,1043,Microsoft GDI Plugin PNG File Infinite Loop Denial Of Service,high,CVE-2009-1511
-trend-dc817890a,,prevent,active,1293,1071,Microsoft Windows Media Player WAV File Multiple Denial Of Service Vulnerabilities,medium
+trend-dc817890a,,prevent,active,1293,1071,Microsoft Windows Media Player WAV File Multiple Denial Of Service Vulnerabilities,medium,
 trend-dc817890a,,prevent,active,1293,1115,Microsoft Windows 'MPEG2TuneRequest' Object Remote Code Execution,critical,CVE-2008-0015
 trend-dc817890a,,prevent,active,1293,1120,Embedded OpenType Font Integer Overflow Vulnerability,critical,CVE-2009-0232
 trend-dc817890a,,prevent,active,1293,1126,Embedded OpenType Font Heap Overflow Vulnerability,critical,CVE-2009-0231
@@ -420,7 +420,7 @@ trend-dc817890a,,prevent,active,1293,1260,Memory Corruption In Indexing Service 
 trend-dc817890a,,prevent,active,1293,1311,MS-CHAP Authentication Bypass Vulnerability,critical,CVE-2009-3677
 trend-dc817890a,,prevent,active,1293,1343,Multiple Browser Certificate Regexp Parsing Heap Overflow,critical,CVE-2009-2404,CVE-2009-2510,CVE-2009-2408
 trend-dc817890a,,prevent,active,1293,1347,Gracenote CDDBControl ActiveX Control 'ViewProfile' Method Heap Buffer Overflow Vulnerability,medium,CVE-2010-0278
-trend-dc817890a,,prevent,active,1293,1352,Microsoft Internet Explorer Null Pointer Dereference Denial Of Service Vulnerabilities,high
+trend-dc817890a,,prevent,active,1293,1352,Microsoft Internet Explorer Null Pointer Dereference Denial Of Service Vulnerabilities,high,
 trend-dc817890a,,prevent,active,1293,1367,MS IE Uninitialized Memory Corruption Vulnerability,critical,CVE-2010-0247
 trend-dc817890a,,prevent,active,1293,1377,Microsoft Internet Explorer URI Redirection Security Bypass,medium,CVE-2010-0255
 trend-dc817890a,,prevent,active,1293,1383,Microsoft Messenger Information Disclosure Vulnerability,critical,CVE-2008-0082
@@ -436,26 +436,26 @@ trend-dc817890a,,prevent,active,1293,1460,HTML Rendering  Memory Corruption,crit
 trend-dc817890a,,prevent,active,1293,1464,HTML Object Memory Corruption Remote Vulnerability,critical,CVE-2010-0491
 trend-dc817890a,,prevent,active,1293,1466,Uninitialized Memory Corruption Remote Code Vulnerability,critical,CVE-2010-0490
 trend-dc817890a,,prevent,active,1293,1477,WinVerifyTrust Signature Validation Vulnerability,critical,CVE-2010-0486
-trend-dc817890a,,prevent,active,1293,1506,Multiple Browsers 0day Denial Of Service,high
+trend-dc817890a,,prevent,active,1293,1506,Multiple Browsers 0day Denial Of Service,high,
 trend-dc817890a,,prevent,active,1293,1507,MS Paint Integer Overflow Vulnerability,critical,CVE-2010-0028
 trend-dc817890a,,prevent,active,1293,1508,Outlook Express And Windows Mail Integer Overflow Vulnerability,critical,CVE-2010-0816
-trend-dc817890a,,prevent,active,1293,1541,Microsoft Internet Explorer CSS 'expression' Remote Denial Of Service Vulnerability,high
+trend-dc817890a,,prevent,active,1293,1541,Microsoft Internet Explorer CSS 'expression' Remote Denial Of Service Vulnerability,high,
 trend-dc817890a,,prevent,active,1293,1548,Microsoft IE toStaticHTML Information Disclosure Vulnerability,medium,CVE-2010-1257
 trend-dc817890a,,prevent,active,1293,1553,Microsoft IE Cross-Domain Information Disclosure Vulnerability,medium,CVE-2010-0255
 trend-dc817890a,,prevent,active,1293,1559,Microsoft IE Uninitialized Memory Corruption Remote Code Execution Vulnerability,critical,CVE-2010-1262,CVE-2010-1259
 trend-dc817890a,,prevent,active,1293,1591,Microsoft MFC Library 'UpdateFrameTitleForDocument()' Buffer Overflow Vulnerability,critical,CVE-2010-3227
 trend-dc817890a,,prevent,active,1293,1605,Multiple Browser Status Bar Obfuscation And Clickjacking Vulnerability,medium,CVE-2009-0253
-trend-dc817890a,,prevent,active,1293,1612,Microsoft Internet Explorer Frame Border Property Denial Of Service,high
-trend-dc817890a,,prevent,active,1293,1623,Microsoft Soap SDK mssoap1.dll ActiveX Remote Code Execution,medium
+trend-dc817890a,,prevent,active,1293,1612,Microsoft Internet Explorer Frame Border Property Denial Of Service,high,
+trend-dc817890a,,prevent,active,1293,1623,Microsoft Soap SDK mssoap1.dll ActiveX Remote Code Execution,medium,
 trend-dc817890a,,prevent,active,1293,1625,MS IE Uninitialized Memory Corruption,critical,CVE-2010-2557
 trend-dc817890a,,prevent,active,1293,1628,Event Handler Cross-Domain Vulnerability,medium,CVE-2010-1258
 trend-dc817890a,,prevent,active,1293,1633,HTML Layout Memory Corruption Vulnerability,critical,CVE-2010-2560
-trend-dc817890a,,prevent,active,1293,1634,Microsoft Windows Multiple Shell ActiveX Remote Code Execution,medium
-trend-dc817890a,,prevent,active,1293,1641,Multiple Browser Denial Of Service Vulnerability,high
+trend-dc817890a,,prevent,active,1293,1634,Microsoft Windows Multiple Shell ActiveX Remote Code Execution,medium,
+trend-dc817890a,,prevent,active,1293,1641,Multiple Browser Denial Of Service Vulnerability,high,
 trend-dc817890a,,prevent,active,1293,1643,MS Internet Explorer Uninitialized Memory Corruption,critical,CVE-2010-2559
-trend-dc817890a,,prevent,active,1293,1648,HHCTRLLib (hhctrl.ocx) Remote BOF Vulnerability,medium
+trend-dc817890a,,prevent,active,1293,1648,HHCTRLLib (hhctrl.ocx) Remote BOF Vulnerability,medium,
 trend-dc817890a,,prevent,active,1293,1662,Movie Maker And Producer Buffer Overflow Vulnerability,critical,CVE-2010-0265
-trend-dc817890a,,prevent,active,1293,1738,Identified Suspicious Usage Of Shellcode For Client,high
+trend-dc817890a,,prevent,active,1293,1738,Identified Suspicious Usage Of Shellcode For Client,high,
 trend-dc817890a,,prevent,active,1293,1766,Microsoft Data Access Object Recordset Remote Code Execution,critical,CVE-2010-0027
 trend-dc817890a,,prevent,active,1293,1795,Microsoft Internet Explorer MHTML MIME Handler Information Disclosure,medium,CVE-2011-0096,CVE-2011-1894
 trend-dc817890a,,prevent,active,1293,1825,Cumulative Security Updates of ActiveX Kill Bits - April 2011,medium,CVE-2010-0811,CVE-2011-1243,CVE-2010-3973
@@ -470,11 +470,11 @@ trend-dc817890a,,prevent,active,1293,1896,Internet Explorer Layout Memory Corrup
 trend-dc817890a,,prevent,active,1293,1897,Internet Explorer HTTP Redirect Memory Corruption Vulnerability (CVE-2011-1262),critical,CVE-2011-1262
 trend-dc817890a,,prevent,active,1293,1898,Buffer Overflow In Print Spooler Vulnerability,critical,CVE-2009-0228
 trend-dc817890a,,prevent,active,1293,1901,Multiple Web Browsers Denial Of Service Vulnerability,high,CVE-2009-1692,CVE-2009-2540,CVE-2009-2535,CVE-2009-2542,CVE-2009-2536
-trend-dc817890a,,prevent,active,1293,1904,Flash Player (Flash6.ocx) AllowScriptAccess DoS,critical
+trend-dc817890a,,prevent,active,1293,1904,Flash Player (Flash6.ocx) AllowScriptAccess DoS,critical,
 trend-dc817890a,,prevent,active,1293,1906,DNS Query Vulnerability (CVE-2011-0657),high,CVE-2011-0657
 trend-dc817890a,,prevent,active,1293,1911,Internet Explorer toStaticHTML Information Disclosure Vulnerability (CVE-2011-1252),medium,CVE-2011-1252
 trend-dc817890a,,prevent,active,1293,1921,Internet Explorer Time Element Memory Corruption Vulnerability (CVE-2011-1255),critical,CVE-2011-1255
-trend-dc817890a,,prevent,active,1293,1922,Mozilla Firefox And Microsoft Internet Explorer Denial Of Service,critical
+trend-dc817890a,,prevent,active,1293,1922,Mozilla Firefox And Microsoft Internet Explorer Denial Of Service,critical,
 trend-dc817890a,,prevent,active,1293,1933,Integer Overflow In X.509 Object Identifiers Spoofing Vulnerability,high,CVE-2009-2511
 trend-dc817890a,,prevent,active,1293,1939,Microsoft Internet Explorer Window Open Race Condition Vulnerability (CVE-2011-1257),high,CVE-2011-1257
 trend-dc817890a,,prevent,active,1293,1945,Microsoft MPEG Layer-3 Audio Decoder Divide-By-Zero Denial Of Service Vulnerability,critical,CVE-2010-0480
@@ -483,7 +483,7 @@ trend-dc817890a,,prevent,active,1293,1958,Windows Components Insecure Library Lo
 trend-dc817890a,,prevent,active,1293,1998,Identified Suspicious Microsoft Office Files With Embedded Dexter Font,critical,CVE-2011-3402
 trend-dc817890a,,prevent,active,1293,2001,XSLT Memory Corruption Vulnerability (CVE-2011-1963),critical,CVE-2011-1963
 trend-dc817890a,,prevent,active,1293,2009,Microsoft Time Remote Code Execution Vulnerability (CVE-2011-3397),critical,CVE-2011-3397
-trend-dc817890a,,prevent,active,1293,2013,Identified Diginotar Certificate,critical
+trend-dc817890a,,prevent,active,1293,2013,Identified Diginotar Certificate,critical,
 trend-dc817890a,,prevent,active,1293,2019,Object Packager Insecure Executable Launching Vulnerability Over WebDAV (CVE-2012-0009),critical,CVE-2012-0009
 trend-dc817890a,,prevent,active,1293,2029,Identified Suspicious JavaScript Encoded Shellcode,critical,CVE-2008-5492,CVE-2011-2365,CVE-2009-3373,CVE-2011-0065,CVE-2006-3730,CVE-2007-0015,CVE-2008-1472,CVE-2013-1017,CVE-2008-4922,CVE-2010-3973,CVE-2008-3008,CVE-2012-4792,CVE-2006-4868,CVE-2010-2590,CVE-2009-1534,CVE-2012-0003,CVE-2011-0222,CVE-2013-1347,CVE-2012-1876,CVE-2013-3184,CVE-2010-0188,CVE-2010-0248,CVE-2013-3205
 trend-dc817890a,,prevent,active,1293,2045,Identified Suspicious Microsoft DLL File Over WebDav,critical,CVE-2010-3145,CVE-2011-0032,CVE-2011-2009
@@ -501,16 +501,16 @@ trend-dc817890a,,prevent,active,1293,2253,Identified Suspicious EOT File With Em
 trend-dc817890a,,prevent,active,1293,2262,Microsoft Windows OpenType Font Parsing Vulnerability (CVE-2012-2556),critical,CVE-2012-2556
 trend-dc817890a,,prevent,active,1293,2265,Microsoft Rich Text File DirectPlay Heap Overflow Vulnerability (CVE-2012-1537),critical,CVE-2012-1537
 trend-dc817890a,,prevent,active,1293,2266,Microsoft Office DirectPlay Heap Overflow Vulnerability (CVE-2012-1537),critical,CVE-2012-1537
-trend-dc817890a,,prevent,active,1293,2269,Microsoft Internet Explorer Remote Stack Overflow Vulnerability,critical
+trend-dc817890a,,prevent,active,1293,2269,Microsoft Internet Explorer Remote Stack Overflow Vulnerability,critical,
 trend-dc817890a,,prevent,active,1293,2279,Microsoft Internet Explorer CDwnBindInfo Object Use-After-Free Vulnerability (CVE-2012-4792),critical,CVE-2012-4792
 trend-dc817890a,,prevent,active,1293,2283,TrueType Font Parsing Vulnerability (CVE-2012-4786),critical,CVE-2012-4786
-trend-dc817890a,,prevent,active,1293,2285,Identified Fraudulent Digital Certificate,critical
+trend-dc817890a,,prevent,active,1293,2285,Identified Fraudulent Digital Certificate,critical,
 trend-dc817890a,,prevent,active,1293,2290,Microsoft Internet Explorer 'execCommand' Use-After-Free Vulnerability,critical,CVE-2012-4969
 trend-dc817890a,,prevent,active,1293,2305,Microsoft Windows Filename Parsing Vulnerability Over WebDAV (CVE-2012-4774),critical,CVE-2012-4774
 trend-dc817890a,,prevent,active,1293,2329,SMB Validation Remote Code Execution Vulnerability,critical,CVE-2008-4835
-trend-dc817890a,,prevent,active,1293,2354,Identified Obfuscated JavaScript For Internet Explorer,high
+trend-dc817890a,,prevent,active,1293,2354,Identified Obfuscated JavaScript For Internet Explorer,high,
 trend-dc817890a,,prevent,active,1293,2384,RDP ActiveX Control Remote Code Execution Vulnerability (CVE-2013-1296),critical,CVE-2013-1296
-trend-dc817890a,,prevent,active,1293,2389,Identified Java Exploit,critical
+trend-dc817890a,,prevent,active,1293,2389,Identified Java Exploit,critical,
 trend-dc817890a,,prevent,active,1293,2391,Microsoft Internet Explorer CDwnBindInfo Object Use-After-Free Vulnerability (CVE-2012-4792) - 2,critical,CVE-2012-4792
 trend-dc817890a,,prevent,active,1293,2426,Internet Explorer Memory Corruption Vulnerability (CVE-2013-3110),critical,CVE-2013-3110
 trend-dc817890a,,prevent,active,1293,2427,Microsoft Internet Explorer Memory Corruption Vulnerability (CVE-2013-3124),critical,CVE-2013-3124
@@ -617,7 +617,7 @@ trend-dc817890a,,prevent,active,1293,2820,Microsoft Internet Explorer Memory Cor
 trend-dc817890a,,prevent,active,1293,2826,Microsoft Internet Explorer Memory Corruption Vulnerability (CVE-2014-0303),critical,CVE-2014-0303
 trend-dc817890a,,prevent,active,1293,2827,Microsoft Internet Explorer Memory Corruption Vulnerability (CVE-2014-0312),critical,CVE-2014-0312
 trend-dc817890a,,prevent,active,1293,2828,Microsoft Internet Explorer Memory Corruption Vulnerability (CVE-2014-0274),critical,CVE-2014-0274
-trend-dc817890a,,prevent,active,1293,2829,Identified Malicious Image File,high
+trend-dc817890a,,prevent,active,1293,2829,Identified Malicious Image File,high,
 trend-dc817890a,,prevent,active,1293,2830,Microsoft Internet Explorer Remote Code Execution Vulnerability (CVE-2014-0307),critical,CVE-2014-0307
 trend-dc817890a,,prevent,active,1293,2835,Microsoft Windows OLE Object File Handling Remote Code Execution Vulnerability (CVE-2011-3400),critical,CVE-2011-3400
 trend-dc817890a,,prevent,active,1293,2836,Microsoft DirectShow Memory Corruption Vulnerability (CVE-2014-0301) - 1,critical,CVE-2014-0301
@@ -643,7 +643,7 @@ trend-dc817890a,,prevent,active,1293,2934,Microsoft Internet Explorer Memory Cor
 trend-dc817890a,,prevent,active,1293,2937,Microsoft Internet Explorer Memory Corruption Vulnerability (CVE-2014-1766),high,CVE-2014-1766
 trend-dc817890a,,prevent,active,1293,2939,Microsoft Internet Explorer Memory Corruption Vulnerability (CVE-2014-1804),critical,CVE-2014-1804
 trend-dc817890a,,prevent,active,1293,2941,Microsoft Internet Explorer Memory Corruption Vulnerability (CVE-2014-1791),critical,CVE-2014-1791
-trend-dc817890a,,prevent,active,1293,2944,Identified Suspicious Shellcode In HTML Documents,critical
+trend-dc817890a,,prevent,active,1293,2944,Identified Suspicious Shellcode In HTML Documents,critical,
 trend-dc817890a,,prevent,active,1293,2946,Microsoft Internet Explorer Memory Corruption Vulnerability (CVE-2014-1795),critical,CVE-2014-1795
 trend-dc817890a,,prevent,active,1293,2947,Microsoft Internet Explorer Memory Corruption Vulnerability (CVE-2014-1789),critical,CVE-2014-1789
 trend-dc817890a,,prevent,active,1293,2948,Microsoft Internet Explorer Uninitialized Memory Corruption Remote Code Execution Vulnerability,critical,CVE-2009-3671,CVE-2010-0245,CVE-2010-0246
@@ -703,7 +703,7 @@ trend-dc817890a,,prevent,active,1293,3185,Microsoft Internet Explorer Memory Cor
 trend-dc817890a,,prevent,active,1293,3186,Microsoft Internet Explorer Cross-Domain Information Disclosure Vulnerability (CVE-2014-6340),medium,CVE-2014-6340
 trend-dc817890a,,prevent,active,1293,3187,Microsoft Internet Explorer Memory Corruption Vulnerability (CVE-2014-6343),critical,CVE-2014-6343
 trend-dc817890a,,prevent,active,1293,3188,Microsoft Internet Explorer Memory Corruption Vulnerability (CVE-2014-6344),critical,CVE-2014-6344
-trend-dc817890a,,prevent,active,1293,3189,Microsoft Internet Explorer CTitleElement Use After Free Vulnerability,medium
+trend-dc817890a,,prevent,active,1293,3189,Microsoft Internet Explorer CTitleElement Use After Free Vulnerability,medium,
 trend-dc817890a,,prevent,active,1293,3206,Windows OLE Automation Array Remote Code Execution Vulnerability (CVE-2014-6332) - 1,critical,CVE-2014-6332
 trend-dc817890a,,prevent,active,1293,3207,Microsoft Internet Explorer Memory Corruption Vulnerability (CVE-2014-6347),critical,CVE-2014-6347
 trend-dc817890a,,prevent,active,1293,3208,Microsoft XML Core Services Remote Code Execution Vulnerability (CVE-2014-4118),critical,CVE-2014-4118
@@ -877,7 +877,7 @@ trend-dc817890a,,prevent,active,1293,3786,Win32k TTF Parsing Vulnerability,criti
 trend-dc817890a,,prevent,active,1293,3789,Windows Media Playback Memory Corruption Vulnerability,high,CVE-2009-2499
 trend-dc817890a,,prevent,active,1293,3790,Windows Media Runtime Voice Sample Rate Vulnerability,critical,CVE-2009-0555
 trend-dc817890a,,prevent,active,1293,3793,GDI Integer Overflow Vulnerability,critical,CVE-2008-2249
-trend-dc817890a,,prevent,active,1293,3812,Identified Suspicious User Agent In Outgoing HTTP Request,medium
+trend-dc817890a,,prevent,active,1293,3812,Identified Suspicious User Agent In Outgoing HTTP Request,medium,
 trend-dc817890a,,prevent,active,1293,3820,Microsoft Windows VBScript Memory Corruption Vulnerability (CVE-2015-2372),critical,CVE-2015-2372
 trend-dc817890a,,prevent,active,1293,3821,Microsoft Internet Explorer Memory Corruption Vulnerability (CVE-2015-2388),critical,CVE-2015-2388
 trend-dc817890a,,prevent,active,1293,3822,Microsoft Internet Explorer Memory Corruption Vulnerability (CVE-2015-2389),critical,CVE-2015-2389
@@ -940,7 +940,7 @@ trend-dc817890a,,prevent,active,1293,4019,Microsoft Internet Explorer Memory Cor
 trend-dc817890a,,prevent,active,1293,4024,Microsoft Windows OpenType Font Parsing Vulnerability (CVE-2015-2459),critical,CVE-2015-2459
 trend-dc817890a,,prevent,active,1293,4025,Microsoft Windows OpenType Font Parsing Vulnerability (CVE-2015-2461),critical,CVE-2015-2461
 trend-dc817890a,,prevent,active,1293,4028,Microsoft Graphics Component Buffer Overflow Vulnerability (CVE-2015-2510),critical,CVE-2015-2510
-trend-dc817890a,,prevent,active,1293,4045,Identified File Protocol Handler In HTTP Location Header,critical
+trend-dc817890a,,prevent,active,1293,4045,Identified File Protocol Handler In HTTP Location Header,critical,
 trend-dc817890a,,prevent,active,1293,4069,Microsoft Internet Explorer Memory Corruption Vulnerability (CVE-2015-6048),critical,CVE-2015-6048
 trend-dc817890a,,prevent,active,1293,4072,Microsoft Internet Explorer Memory Corruption Vulnerability (CVE-2015-6045),critical,CVE-2015-6045
 trend-dc817890a,,prevent,active,1293,4073,Microsoft Internet Explorer Information Disclosure Vulnerability (CVE-2015-6046),medium,CVE-2015-6046
@@ -976,7 +976,7 @@ trend-dc817890a,,prevent,active,1293,4136,Microsoft Internet Explorer Memory Cor
 trend-dc817890a,,prevent,active,1293,4145,Microsoft Internet Explorer Memory Corruption Vulnerability (CVE-2015-6079),critical,CVE-2015-6079
 trend-dc817890a,,prevent,active,1293,4152,Microsoft Internet Explorer JScript9 Memory Corruption Vulnerability (CVE-2015-2419),critical,CVE-2015-2419
 trend-dc817890a,,prevent,active,1293,4153,Microsoft Internet Explorer Memory Corruption Vulnerability (CVE-2015-6075),critical,CVE-2015-6075
-trend-dc817890a,,prevent,active,1293,4167,Identified Revoked Certificate Authority In SSL Traffic (ATT&CK T1032),critical
+trend-dc817890a,,prevent,active,1293,4167,Identified Revoked Certificate Authority In SSL Traffic (ATT&CK T1032),critical,
 trend-dc817890a,,prevent,active,1293,4168,Adobe Font Driver Memory Corruption Vulnerability (CVE-2015-2426),critical,CVE-2015-2426
 trend-dc817890a,,prevent,active,1293,4169,Microsoft Internet Explorer Memory Corruption Vulnerability (CVE-2015-6160),critical,CVE-2015-6160
 trend-dc817890a,,prevent,active,1293,4171,Microsoft Windows Graphics Memory Corruption Vulnerability (CVE-2015-6107),critical,CVE-2015-6107
@@ -1007,7 +1007,7 @@ trend-dc817890a,,prevent,active,1293,4224,Microsoft Internet Explorer Memory Cor
 trend-dc817890a,,prevent,active,1293,4225,Microsoft Internet Explorer Memory Corruption Vulnerability (CVE-2015-6085),critical,CVE-2015-6085
 trend-dc817890a,,prevent,active,1293,4276,Microsoft Internet Explorer And Edge Memory Corruption Vulnerability (CVE-2015-6142),critical,CVE-2015-6142
 trend-dc817890a,,prevent,active,1293,4279,Microsoft Internet Explorer And Edge Memory Corruption Vulnerability (CVE-2015-6159),critical,CVE-2015-6159
-trend-dc817890a,,prevent,active,1293,4282,HTTP Web Client Decoding,critical
+trend-dc817890a,,prevent,active,1293,4282,HTTP Web Client Decoding,critical,
 trend-dc817890a,,prevent,active,1293,4283,Microsoft Windows ASLR Bypass Vulnerability (CVE-2016-0008),medium,CVE-2016-0008
 trend-dc817890a,,prevent,active,1293,4285,Microsoft Internet Explorer Same Origin Policy Bypass Vulnerability (CVE-2016-0005),medium,CVE-2016-0005
 trend-dc817890a,,prevent,active,1293,4288,Microsoft Windows Library Loading Remote Code Execution Vulnerability Over WebDAV (CVE-2015-6128),high,CVE-2015-6128
@@ -1042,7 +1042,7 @@ trend-dc817890a,,prevent,active,1293,4418,Microsoft Internet Explorer Memory Cor
 trend-dc817890a,,prevent,active,1293,4421,Microsoft DirectShow Heap Corruption Vulnerability (CVE-2016-0015),critical,CVE-2016-0015
 trend-dc817890a,,prevent,active,1293,4425,Microsoft Windows DLL Loading Vulnerabilities Over WebDAV (MS16-007),medium,CVE-2016-0016,CVE-2016-0014,CVE-2016-0018
 trend-dc817890a,,prevent,active,1293,4426,Microsoft Internet Explorer Memory Corruption Vulnerability (CVE-2016-0108),high,CVE-2016-0108
-trend-dc817890a,,prevent,active,1293,4432,Identified Fraudulent Digital Certificate - 1,critical
+trend-dc817890a,,prevent,active,1293,4432,Identified Fraudulent Digital Certificate - 1,critical,
 trend-dc817890a,,prevent,active,1293,4435,Microsoft Windows OpenType Font Parsing Vulnerability (CVE-2016-0120),high,CVE-2016-0120
 trend-dc817890a,,prevent,active,1293,4436,Microsoft Internet Explorer Memory Corruption Vulnerability (CVE-2016-0164),high,CVE-2016-0164
 trend-dc817890a,,prevent,active,1293,4437,Microsoft Windows Graphics Memory Corruption Vulnerability (CVE-2016-0145),critical,CVE-2016-0145
@@ -1050,8 +1050,8 @@ trend-dc817890a,,prevent,active,1293,4440,Microsoft Internet Explorer Memory Cor
 trend-dc817890a,,prevent,active,1293,4452,Microsoft Internet Explorer Memory Corruption Vulnerability (CVE-2016-0159),high,CVE-2016-0159
 trend-dc817890a,,prevent,active,1293,4455,Microsoft Windows MSXML Remote Code Execution Vulnerability (CVE-2016-0147),critical,CVE-2016-0147
 trend-dc817890a,,prevent,active,1293,4457,Microsoft Windows DLL Loading Vulnerabilities Over WebDAV (CVE-2016-0160 and CVE-2016-0148),high,CVE-2016-0160,CVE-2016-0148
-trend-dc817890a,,prevent,active,1293,4463,Internet Explorer Exec ActiveX Remote Code Execution,critical
-trend-dc817890a,,prevent,active,1293,4464,Microsoft GS Wavetable Synth Memory Corruption Vulnerability,critical
+trend-dc817890a,,prevent,active,1293,4463,Internet Explorer Exec ActiveX Remote Code Execution,critical,
+trend-dc817890a,,prevent,active,1293,4464,Microsoft GS Wavetable Synth Memory Corruption Vulnerability,critical,
 trend-dc817890a,,prevent,active,1293,4467,Microsoft Internet Explorer Memory Corruption Vulnerability (CVE-2015-6086),medium,CVE-2015-6086
 trend-dc817890a,,prevent,active,1293,4486,Microsoft Windows Media Player Parsing Remote Code Execution Vulnerability (CVE-2016-0101),critical,CVE-2016-0101
 trend-dc817890a,,prevent,active,1293,4488,Microsoft Internet Explorer And Edge Memory Corruption Vulnerability (CVE-2016-0192),high,CVE-2016-0192
@@ -1230,8 +1230,8 @@ trend-dc817890a,,prevent,active,1293,5356,Microsoft JET Database Engine Remote C
 trend-dc817890a,,prevent,active,1293,5358,Microsoft Internet Explorer Memory Corruption Vulnerability (CVE-2017-8594),high,CVE-2017-8594
 trend-dc817890a,,prevent,active,1293,5362,Microsoft Windows GDI Information Disclosure Vulnerability (CVE-2017-0190),low,CVE-2017-0190
 trend-dc817890a,,prevent,active,1293,5397,Microsoft Internet Explorer And Edge Scripting Engine Memory Corruption Vulnerability (CVE-2017-8635),high,CVE-2017-8635
-trend-dc817890a,,prevent,active,1293,5400,Identified Possible Ransomware File Extension Rename Activity Over Network Share,critical
-trend-dc817890a,,prevent,active,1293,5403,Identified Possible Ransomware File Extension Rename Activity Over Network Share - Client,critical
+trend-dc817890a,,prevent,active,1293,5400,Identified Possible Ransomware File Extension Rename Activity Over Network Share,critical,
+trend-dc817890a,,prevent,active,1293,5403,Identified Possible Ransomware File Extension Rename Activity Over Network Share - Client,critical,
 trend-dc817890a,,prevent,active,1293,5415,Microsoft Internet Explorer Memory Corruption Vulnerability (CVE-2017-8749),high,CVE-2017-8749
 trend-dc817890a,,prevent,active,1293,5416,Microsoft Internet Explorer Memory Corruption Vulnerability (CVE-2017-8747),high,CVE-2017-8747
 trend-dc817890a,,prevent,active,1293,5420,Microsoft Internet Explorer And Edge Memory Corruption Vulnerability (CVE-2017-8750),high,CVE-2017-8750
@@ -1355,7 +1355,7 @@ trend-dc817890a,,prevent,active,1293,6201,SMB Client Pool Corruption Vulnerabili
 trend-dc817890a,,prevent,active,1293,6203,SMB Null Pointer Vulnerability,high,CVE-2010-0022
 trend-dc817890a,,prevent,active,1293,6204,SMB Client Race Condition Vulnerability,critical,CVE-2010-0017
 trend-dc817890a,,prevent,active,1293,6206,SMB Memory Corruption Vulnerability,high,CVE-2010-0021
-trend-dc817890a,,prevent,active,1293,6207,Microsoft Windows CHM Notepad Remote Code Execution,medium
+trend-dc817890a,,prevent,active,1293,6207,Microsoft Windows CHM Notepad Remote Code Execution,medium,
 trend-dc817890a,,prevent,active,1293,6208,SMB Client Memory Allocation Vulnerability,critical,CVE-2010-0269
 trend-dc817890a,,prevent,active,1293,6209,SMB Client Response Parsing Vulnerability,critical,CVE-2010-0476
 trend-dc817890a,,prevent,active,1293,6210,SMB Client Message Size Vulnerability,critical,CVE-2010-0477
@@ -1387,7 +1387,7 @@ trend-dc817890a,,prevent,active,1293,6280,Microsoft SMB Credential Reflection Vu
 trend-dc817890a,,prevent,active,1293,6281,Identified Server Suspicious SMB Session,critical,CVE-2017-0148
 trend-dc817890a,,prevent,active,1293,6282,Identified Client Suspicious SMB Session,critical,CVE-2017-0148
 trend-dc817890a,,prevent,active,1293,6287,Microsoft Windows Insecure Binary Loading Vulnerability Over Network Share (CVE-2014-0315),medium,CVE-2014-0315
-trend-dc817890a,,prevent,active,1293,6292,Identified BADRABBIT Ransomware Propagation Over SMB,critical
+trend-dc817890a,,prevent,active,1293,6292,Identified BADRABBIT Ransomware Propagation Over SMB,critical,
 trend-dc817890a,,prevent,active,1293,6295,Microsoft Windows DLL Planting Remote Code Execution Vulnerability (CVE-2015-0096),critical,CVE-2015-0096
 trend-dc817890a,,prevent,active,1293,6296,Microsoft Windows Remote Desktop Protocol Remote Code Execution Vulnerability (CVE-2017-0176),critical,CVE-2017-0176
 trend-dc817890a,,prevent,active,1293,6298,Microsoft Windows SMB Remote Code Execution Vulnerability (MS17-010),critical,CVE-2017-0148
@@ -1421,7 +1421,7 @@ trend-dc817890a,,prevent,active,1293,6391,Microsoft Filter Manager Elevation Of 
 trend-dc817890a,,prevent,active,1293,6392,Microsoft Windows Theme API Remote Code Execution Vulnerability (CVE-2018-8413),critical,CVE-2018-8413
 trend-dc817890a,,prevent,active,1293,6397,Microsoft Windows .NET Framework Device Guard Security Feature Bypass Vulnerability (CVE-2018-1039),critical,CVE-2018-1039
 trend-dc817890a,,prevent,active,1293,6419,Speculative Execution Information Disclosure Vulnerabilities (Spectre),medium,CVE-2017-5715,CVE-2017-5753
-trend-dc817890a,,prevent,active,1293,6425,Microsoft Internet Explorer 'Tree::Notify_InvalidateDisplay' Null Pointer Dereference Vulnerability,high
+trend-dc817890a,,prevent,active,1293,6425,Microsoft Internet Explorer 'Tree::Notify_InvalidateDisplay' Null Pointer Dereference Vulnerability,high,
 trend-dc817890a,,prevent,active,1293,6426,Microsoft Windows Graphics Components Remote Code Execution Vulnerability (CVE-2018-8553),critical,CVE-2018-8553
 trend-dc817890a,,prevent,active,1293,6433,Microsoft Windows DirectX Information Disclosure Vulnerability (CVE-2018-8563),low,CVE-2018-8563
 trend-dc817890a,,prevent,active,1293,6435,Microsoft Windows Multiple Security Vulnerabilities (Nov-2018),high,CVE-2018-8408,CVE-2018-8565,CVE-2018-8589
@@ -1447,7 +1447,7 @@ trend-dc817890a,,prevent,active,1293,6531,Microsoft JET Database Engine Remote C
 trend-dc817890a,,prevent,active,1293,6535,Microsoft Windows GDI Information Disclosure Vulnerability (CVE-2018-8595),medium,CVE-2018-8595
 trend-dc817890a,,prevent,active,1293,6542,Microsoft Internet Explorer Memory Corruption Vulnerability (CVE-2019-0606),critical,CVE-2019-0606
 trend-dc817890a,,prevent,active,1293,6551,Microsoft Windows Multiple Security Vulnerabilities (Feb-2019),critical,CVE-2019-0628,CVE-2019-0621,CVE-2019-0656,CVE-2019-0661
-trend-dc817890a,,prevent,active,1293,6552,Microsoft Windows Information Disclosure Vulnerability (CVE-2019-0636),medium
+trend-dc817890a,,prevent,active,1293,6552,Microsoft Windows Information Disclosure Vulnerability (CVE-2019-0636),medium,
 trend-dc817890a,,prevent,active,1293,6556,Microsoft Internet Explorer Information Disclosure Vulnerability (CVE-2019-0676),critical,CVE-2019-0676
 trend-dc817890a,,prevent,active,1293,6571,Microsoft Windows JET Database Out-of-Bounds Read Remote Code Execution Vulnerability (CVE-2019-0575),medium,CVE-2019-0575
 trend-dc817890a,,prevent,active,1293,6572,Microsoft Windows JET Database Engine 'CreateLvSMLocs' Remote Code Execution (CVE-2019-0577),medium,CVE-2019-0577
@@ -1471,7 +1471,7 @@ trend-dc817890a,,prevent,active,1293,6641,Microsoft XML Remote Code Execution Vu
 trend-dc817890a,,prevent,active,1293,6643,Microsoft Windows Multiple Security Vulnerabilities (Apr-2019),critical,CVE-2019-0685,CVE-2019-0840,CVE-2019-0814,CVE-2019-0859,CVE-2019-0844
 trend-dc817890a,,prevent,active,1293,6661,Microsoft Windows GDI Information Disclosure Vulnerability (CVE-2019-0614),critical,CVE-2019-0614
 trend-dc817890a,,prevent,active,1293,6675,Microsoft Internet Explorer VBScript Engine Remote Code Execution Vulnerability (CVE-2019-0667),critical,CVE-2019-0667
-trend-dc817890a,,prevent,active,1293,6676,Microsoft Edge And Internet Explorer Same Origin Policy Bypass Vulnerabilities,medium
+trend-dc817890a,,prevent,active,1293,6676,Microsoft Edge And Internet Explorer Same Origin Policy Bypass Vulnerabilities,medium,
 trend-dc817890a,,prevent,active,1293,6678,Microsoft Windows Win32k Elevation Of Privilege Vulnerability (CVE-2019-0808),critical,CVE-2019-0808
 trend-dc817890a,,prevent,active,1293,6679,Microsoft Windows Elevation Of Privilege Vulnerability (CVE-2018-8468),critical,CVE-2018-8468
 trend-dc817890a,,prevent,active,1293,6682,Microsoft Windows VBScript Engine Remote Code Execution Vulnerability (CVE-2018-8544),critical,CVE-2018-8544
@@ -1498,7 +1498,7 @@ trend-dc817890a,,prevent,active,1293,6757,Microsoft Internet Explorer Scripting 
 trend-dc817890a,,prevent,active,1293,6759,Microsoft Windows Multiple Security Vulnerabilities (June-2019),critical,CVE-2019-1069,CVE-2019-0943,CVE-2019-0984,CVE-2019-0986,CVE-2019-1041,CVE-2019-1017,CVE-2019-1053,CVE-2019-1064
 trend-dc817890a,,prevent,active,1293,6761,Microsoft Internet Explorer Scripting Engine Memory Corruption Vulnerability (CVE-2019-0988),critical,CVE-2019-0988
 trend-dc817890a,,prevent,active,1293,6766,Microsoft Internet Explorer Scripting Engine Memory Corruption Vulnerability (CVE-2019-1005),critical,CVE-2019-1005
-trend-dc817890a,,prevent,active,1293,6774,Microsoft Windows Vcf And Contact File Insufficient UI Warning Remote Code Execution Vulnerability,critical
+trend-dc817890a,,prevent,active,1293,6774,Microsoft Windows Vcf And Contact File Insufficient UI Warning Remote Code Execution Vulnerability,critical,
 trend-dc817890a,,prevent,active,1293,6779,Microsoft Windows GDI Information Disclosure Vulnerability (CVE-2019-0961),critical,CVE-2019-0961
 trend-dc817890a,,prevent,active,1293,6792,Microsoft Windows VBScript Engine Remote Code Execution Vulnerability (CVE-2018-8174),high,CVE-2018-8174
 trend-dc817890a,,prevent,active,1293,6793,Microsoft Internet Explorer Remote Code Execution Vulnerability (CVE-2018-8625),high,CVE-2018-8625
@@ -1657,26 +1657,26 @@ trend-dc817890a,,prevent,active,1293,8489,Microsoft SharePoint Server Remote Cod
 trend-dc817890a,,prevent,active,1293,8583,Microsoft Windows RPC Remote Code Execution Vulnerability (CVE-2017-8461),medium,CVE-2017-8461
 trend-dc817890a,,prevent,active,1293,8781,Microsoft SharePoint Server Remote Code Execution Vulnerability (CVE-2021-31181),critical,CVE-2021-31181
 trend-dc817890a,,prevent,active,1293,8853,Microsoft SharePoint Server Remote Code Execution Vulnerability (CVE-2021-28474),critical,CVE-2021-28474
-WIN-67K6VAIHRL0,,prevent,active,65,1738,Identified Suspicious Usage Of Shellcode For Client,high
-WIN-67K6VAIHRL0,,prevent,active,65,2013,Identified Diginotar Certificate,critical
+WIN-67K6VAIHRL0,,prevent,active,65,1738,Identified Suspicious Usage Of Shellcode For Client,high,
+WIN-67K6VAIHRL0,,prevent,active,65,2013,Identified Diginotar Certificate,critical,
 WIN-67K6VAIHRL0,,prevent,active,65,2029,Identified Suspicious JavaScript Encoded Shellcode,critical,CVE-2008-5492,CVE-2011-2365,CVE-2009-3373,CVE-2011-0065,CVE-2006-3730,CVE-2007-0015,CVE-2008-1472,CVE-2013-1017,CVE-2008-4922,CVE-2010-3973,CVE-2008-3008,CVE-2012-4792,CVE-2006-4868,CVE-2010-2590,CVE-2009-1534,CVE-2012-0003,CVE-2011-0222,CVE-2013-1347,CVE-2012-1876,CVE-2013-3184,CVE-2010-0188,CVE-2010-0248,CVE-2013-3205
-WIN-67K6VAIHRL0,,prevent,active,65,2354,Identified Obfuscated JavaScript For Internet Explorer,high
-WIN-67K6VAIHRL0,,prevent,active,65,2389,Identified Java Exploit,critical
-WIN-67K6VAIHRL0,,prevent,active,65,2829,Identified Malicious Image File,high
-WIN-67K6VAIHRL0,,prevent,active,65,2944,Identified Suspicious Shellcode In HTML Documents,critical
+WIN-67K6VAIHRL0,,prevent,active,65,2354,Identified Obfuscated JavaScript For Internet Explorer,high,
+WIN-67K6VAIHRL0,,prevent,active,65,2389,Identified Java Exploit,critical,
+WIN-67K6VAIHRL0,,prevent,active,65,2829,Identified Malicious Image File,high,
+WIN-67K6VAIHRL0,,prevent,active,65,2944,Identified Suspicious Shellcode In HTML Documents,critical,
 WIN-67K6VAIHRL0,,prevent,active,65,3441,Identified Usage Of TLS/SSL EXPORT Cipher Suite In Response (ATT&CK T1032),medium,CVE-2015-0138,CVE-2015-1637,CVE-2015-4000,CVE-2015-0204
 WIN-67K6VAIHRL0,,prevent,active,65,3600,Identified SSL/TLS Diffie-Hellman Key Exchange Using Weak Parameters Client (ATT&CK T1032),medium,CVE-2015-1716,CVE-2015-4000
-WIN-67K6VAIHRL0,,prevent,active,65,3812,Identified Suspicious User Agent In Outgoing HTTP Request,medium
-WIN-67K6VAIHRL0,,prevent,active,65,4282,HTTP Web Client Decoding,critical
-WIN-67K6VAIHRL0,,prevent,active,65,5400,Identified Possible Ransomware File Extension Rename Activity Over Network Share,critical
-WIN-67K6VAIHRL0,,prevent,active,65,5403,Identified Possible Ransomware File Extension Rename Activity Over Network Share - Client,critical
+WIN-67K6VAIHRL0,,prevent,active,65,3812,Identified Suspicious User Agent In Outgoing HTTP Request,medium,
+WIN-67K6VAIHRL0,,prevent,active,65,4282,HTTP Web Client Decoding,critical,
+WIN-67K6VAIHRL0,,prevent,active,65,5400,Identified Possible Ransomware File Extension Rename Activity Over Network Share,critical,
+WIN-67K6VAIHRL0,,prevent,active,65,5403,Identified Possible Ransomware File Extension Rename Activity Over Network Share - Client,critical,
 WIN-67K6VAIHRL0,,prevent,active,65,5762,Detected SSLv3 Response (ATT&CK T1032),medium,CVE-2014-3568,CVE-2014-3566
 WIN-67K6VAIHRL0,,prevent,active,65,5892,HTTP Protocol Decoding,critical,CVE-2008-6505,CVE-2008-6682,CVE-2012-6431,CVE-2015-5174,CVE-2004-1315,CVE-2010-3718,CVE-2015-1977,CVE-2000-1075,CVE-2015-8565,CVE-2016-8211,CVE-2018-1323,CVE-2008-2938,CVE-2007-1860,CVE-2012-3305,CVE-2001-0333,CVE-2013-3827,CVE-2001-0252,CVE-2009-1523,CVE-2006-2758,CVE-2015-5531,CVE-2015-8564,CVE-2015-1493,CVE-2014-7816
-WIN-67K6VAIHRL0,,prevent,active,65,6196,Windows Port Mapper Decoder,high
+WIN-67K6VAIHRL0,,prevent,active,65,6196,Windows Port Mapper Decoder,high,
 WIN-67K6VAIHRL0,,prevent,active,65,6419,Speculative Execution Information Disclosure Vulnerabilities (Spectre),medium,CVE-2017-5715,CVE-2017-5753
-WIN-67K6VAIHRL0,,prevent,active,65,6699,Microsoft Windows PowerShell ISE Filename Parsing Remote Code Execution Vulnerability Over SMB,critical
-WIN-67K6VAIHRL0,,prevent,active,65,6700,Microsoft Windows PowerShell ISE Filename Parsing Remote Code Execution Vulnerability,critical
-WIN-67K6VAIHRL0,,prevent,active,65,6774,Microsoft Windows Vcf And Contact File Insufficient UI Warning Remote Code Execution Vulnerability,critical
+WIN-67K6VAIHRL0,,prevent,active,65,6699,Microsoft Windows PowerShell ISE Filename Parsing Remote Code Execution Vulnerability Over SMB,critical,
+WIN-67K6VAIHRL0,,prevent,active,65,6700,Microsoft Windows PowerShell ISE Filename Parsing Remote Code Execution Vulnerability,critical,
+WIN-67K6VAIHRL0,,prevent,active,65,6774,Microsoft Windows Vcf And Contact File Insufficient UI Warning Remote Code Execution Vulnerability,critical,
 WIN-67K6VAIHRL0,,prevent,active,65,7342,Microsoft Windows SMB Remote Code Execution Vulnerability (CVE-2020-1301),critical,CVE-2020-1301
 WIN-67K6VAIHRL0,,prevent,active,65,7345,Microsoft Windows SMB Denial of Service Vulnerability (CVE-2020-1284),critical,CVE-2020-1284
 WIN-67K6VAIHRL0,,prevent,active,65,7361,Microsoft Windows Media Player Information Disclosure Vulnerability (CVE-2020-1232),critical,CVE-2020-1232
@@ -1722,15 +1722,15 @@ WIN-67K6VAIHRL0,,prevent,active,65,8483,Microsoft Windows Graphics Component Rem
 WIN-67K6VAIHRL0,,prevent,active,65,8653,Microsoft Windows Win32k Elevation Of Privilege Vulnerability (CVE-2021-28310),medium,CVE-2021-28310
 WIN-67K6VAIHRL0,,prevent,active,65,8655,Microsoft Windows SMB Information Disclosure Vulnerability (CVE-2021-28325),critical,CVE-2021-28325
 WIN-67K6VAIHRL0,,prevent,active,65,8783,Microsoft Windows HTTP Protocol Stack Remote Code Execution Vulnerability (CVE-2021-31166),critical,CVE-2021-31166
-gabriel-VirtualBox,,prevent,active,12,1738,Identified Suspicious Usage Of Shellcode For Client,high
-gabriel-VirtualBox,,prevent,active,12,2013,Identified Diginotar Certificate,critical
-gabriel-VirtualBox,,prevent,active,12,2285,Identified Fraudulent Digital Certificate,critical
+gabriel-VirtualBox,,prevent,active,12,1738,Identified Suspicious Usage Of Shellcode For Client,high,
+gabriel-VirtualBox,,prevent,active,12,2013,Identified Diginotar Certificate,critical,
+gabriel-VirtualBox,,prevent,active,12,2285,Identified Fraudulent Digital Certificate,critical,
 gabriel-VirtualBox,,prevent,active,12,3005,Identified Suspicious Usage Of Shellcode For Mozilla Firefox,critical,CVE-2013-0757
 gabriel-VirtualBox,,prevent,active,12,3441,Identified Usage Of TLS/SSL EXPORT Cipher Suite In Response (ATT&CK T1032),medium,CVE-2015-0138,CVE-2015-1637,CVE-2015-4000,CVE-2015-0204
 gabriel-VirtualBox,,prevent,active,12,3600,Identified SSL/TLS Diffie-Hellman Key Exchange Using Weak Parameters Client (ATT&CK T1032),medium,CVE-2015-1716,CVE-2015-4000
-gabriel-VirtualBox,,prevent,active,12,3812,Identified Suspicious User Agent In Outgoing HTTP Request,medium
-gabriel-VirtualBox,,prevent,active,12,4167,Identified Revoked Certificate Authority In SSL Traffic (ATT&CK T1032),critical
-gabriel-VirtualBox,,prevent,active,12,4282,HTTP Web Client Decoding,critical
-gabriel-VirtualBox,,prevent,active,12,4432,Identified Fraudulent Digital Certificate - 1,critical
+gabriel-VirtualBox,,prevent,active,12,3812,Identified Suspicious User Agent In Outgoing HTTP Request,medium,
+gabriel-VirtualBox,,prevent,active,12,4167,Identified Revoked Certificate Authority In SSL Traffic (ATT&CK T1032),critical,
+gabriel-VirtualBox,,prevent,active,12,4282,HTTP Web Client Decoding,critical,
+gabriel-VirtualBox,,prevent,active,12,4432,Identified Fraudulent Digital Certificate - 1,critical,
 gabriel-VirtualBox,,prevent,active,12,5762,Detected SSLv3 Response (ATT&CK T1032),medium,CVE-2014-3568,CVE-2014-3566
 gabriel-VirtualBox,,prevent,active,12,5892,HTTP Protocol Decoding,critical,CVE-2008-6505,CVE-2008-6682,CVE-2012-6431,CVE-2015-5174,CVE-2004-1315,CVE-2010-3718,CVE-2015-1977,CVE-2000-1075,CVE-2015-8565,CVE-2016-8211,CVE-2018-1323,CVE-2008-2938,CVE-2007-1860,CVE-2012-3305,CVE-2001-0333,CVE-2013-3827,CVE-2001-0252,CVE-2009-1523,CVE-2006-2758,CVE-2015-5531,CVE-2015-8564,CVE-2015-1493,CVE-2014-7816
